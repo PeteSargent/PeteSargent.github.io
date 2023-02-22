@@ -142,7 +142,7 @@ footer{
 .background{
     position: fixed;
     right: 0;
-    bottom: 0;
+    top: 0;
     min-width: 100%;
     z-index: -1;
 }
